@@ -15,9 +15,9 @@ The company currently evaluates employees for promotion through training and ass
 
 | File | Description | Link |
 |------|-------------|-------|
-| `train.csv` | Employee data with promotion outcome |Training dataset/train.csv|
-| `test.csv` | Employee data without outcome (for prediction) |
-| `sample_submission.csv` | Required submission format |
+| `train.csv` | Employee data with promotion outcome |https://github.com/nsainithin/HR-Analysis/blob/main/Training%20dataset/train.csv |
+| `test.csv` | Employee data without outcome (for prediction) | https://github.com/nsainithin/HR-Analysis/blob/main/Testing%20dataset/test.csv |
+| `sample_submission.csv` | Required submission format | https://github.com/nsainithin/HR-Analysis/blob/main/Output/sample_submission.csv |
 
 ---
 
