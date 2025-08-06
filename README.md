@@ -13,9 +13,9 @@ The company currently evaluates employees for promotion through training and ass
 
 ## 📁 Dataset Overview
 
-| File | Description |
-|------|-------------|
-| `train.csv` | Employee data with promotion outcome |
+| File | Description | Link |
+|------|-------------|-------|
+| `train.csv` | Employee data with promotion outcome |Training dataset/train.csv|
 | `test.csv` | Employee data without outcome (for prediction) |
 | `sample_submission.csv` | Required submission format |
 
